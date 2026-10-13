@@ -10,6 +10,5 @@ class Solution {
             low++;
             right--;
              }
-        System.out.print(s);
     }
 }
