@@ -39,9 +39,11 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/RIYAZ479/UpSkill/tree/main/0344-reverse-string/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/RIYAZ479/UpSkill/tree/main/0344-reverse-string/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
 <!---LeetCode Topics End-->
