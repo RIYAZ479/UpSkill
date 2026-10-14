@@ -46,4 +46,13 @@
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/RIYAZ479/UpSkill/tree/main/0344-reverse-string/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RIYAZ479/UpSkill/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RIYAZ479/UpSkill/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RIYAZ479/UpSkill/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 <!---LeetCode Topics End-->
