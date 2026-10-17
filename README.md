@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/RIYAZ479/UpSkill/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAZ479/UpSkill/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/RIYAZ479/UpSkill/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
@@ -38,10 +39,12 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/RIYAZ479/UpSkill/tree/main/0075-sort-colors/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RIYAZ479/UpSkill/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/RIYAZ479/UpSkill/tree/main/0075-sort-colors/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/RIYAZ479/UpSkill/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/RIYAZ479/UpSkill/tree/main/0344-reverse-string/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
@@ -89,4 +92,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAZ479/UpSkill/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/RIYAZ479/UpSkill/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/RIYAZ479/UpSkill/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
