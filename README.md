@@ -51,6 +51,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/RIYAZ479/UpSkill/tree/main/0006-zigzag-conversion/) | Medium |
 | [0344-reverse-string](https://github.com/RIYAZ479/UpSkill/tree/main/0344-reverse-string/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RIYAZ479/UpSkill/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
