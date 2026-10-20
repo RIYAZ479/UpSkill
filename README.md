@@ -24,6 +24,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/RIYAZ479/UpSkill/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/RIYAZ479/UpSkill/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -50,12 +51,14 @@
 | [0075-sort-colors](https://github.com/RIYAZ479/UpSkill/tree/main/0075-sort-colors/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/RIYAZ479/UpSkill/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/RIYAZ479/UpSkill/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/RIYAZ479/UpSkill/tree/main/0392-is-subsequence/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/RIYAZ479/UpSkill/tree/main/0006-zigzag-conversion/) | Medium |
 | [0344-reverse-string](https://github.com/RIYAZ479/UpSkill/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/RIYAZ479/UpSkill/tree/main/0392-is-subsequence/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RIYAZ479/UpSkill/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Hash Table
