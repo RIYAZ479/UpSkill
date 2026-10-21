@@ -9,6 +9,7 @@
 | [0162-find-peak-element](https://github.com/RIYAZ479/UpSkill/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/RIYAZ479/UpSkill/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/RIYAZ479/UpSkill/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RIYAZ479/UpSkill/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RIYAZ479/UpSkill/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RIYAZ479/UpSkill/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -109,4 +110,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/RIYAZ479/UpSkill/tree/main/0075-sort-colors/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/RIYAZ479/UpSkill/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
