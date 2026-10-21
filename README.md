@@ -8,6 +8,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/RIYAZ479/UpSkill/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0162-find-peak-element](https://github.com/RIYAZ479/UpSkill/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/RIYAZ479/UpSkill/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/RIYAZ479/UpSkill/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/RIYAZ479/UpSkill/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RIYAZ479/UpSkill/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
