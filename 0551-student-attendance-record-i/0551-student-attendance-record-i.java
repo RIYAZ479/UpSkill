@@ -10,6 +10,9 @@ class Solution {
             }else if(s.charAt(i)=='A'){
                 count=0;
                 l++;
+                if(l>=2){
+                    return false;
+                }
             }else{
                 count=0;
             }
