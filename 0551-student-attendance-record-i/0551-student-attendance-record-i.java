@@ -7,6 +7,9 @@ class Solution {
             if(s.charAt(i)=='L'){
                 count++;
                c=Math.max(c,count);
+               if(c>=3){
+                return false;
+               }
             }else if(s.charAt(i)=='A'){
                 count=0;
                 l++;
