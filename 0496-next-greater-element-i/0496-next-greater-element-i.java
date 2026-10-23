@@ -9,7 +9,7 @@ class Solution {
             for (int j = 0; j < n; j++) {
                 if (nums1[i] == nums2[j]) {
 
-                    int x = j + 1;
+                    int x = j;
 
                     while (x < n) {
                         if (nums2[x] > nums1[i]) {
