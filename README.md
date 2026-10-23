@@ -9,6 +9,7 @@
 | [0162-find-peak-element](https://github.com/RIYAZ479/UpSkill/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/RIYAZ479/UpSkill/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/RIYAZ479/UpSkill/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/RIYAZ479/UpSkill/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAZ479/UpSkill/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/RIYAZ479/UpSkill/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -71,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAZ479/UpSkill/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0496-next-greater-element-i](https://github.com/RIYAZ479/UpSkill/tree/main/0496-next-greater-element-i/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RIYAZ479/UpSkill/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RIYAZ479/UpSkill/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Counting
@@ -119,4 +121,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/RIYAZ479/UpSkill/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/RIYAZ479/UpSkill/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/RIYAZ479/UpSkill/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
