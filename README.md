@@ -7,6 +7,7 @@
 | [0075-sort-colors](https://github.com/RIYAZ479/UpSkill/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAZ479/UpSkill/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0162-find-peak-element](https://github.com/RIYAZ479/UpSkill/tree/main/0162-find-peak-element/) | Medium |
+| [0164-maximum-gap](https://github.com/RIYAZ479/UpSkill/tree/main/0164-maximum-gap/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/RIYAZ479/UpSkill/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/RIYAZ479/UpSkill/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/RIYAZ479/UpSkill/tree/main/0496-next-greater-element-i/) | Easy |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/RIYAZ479/UpSkill/tree/main/0075-sort-colors/) | Medium |
+| [0164-maximum-gap](https://github.com/RIYAZ479/UpSkill/tree/main/0164-maximum-gap/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAZ479/UpSkill/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RIYAZ479/UpSkill/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RIYAZ479/UpSkill/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -102,6 +104,7 @@
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/RIYAZ479/UpSkill/tree/main/0164-maximum-gap/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/RIYAZ479/UpSkill/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -143,4 +146,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAZ479/UpSkill/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/RIYAZ479/UpSkill/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/RIYAZ479/UpSkill/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
