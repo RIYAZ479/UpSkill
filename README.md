@@ -13,6 +13,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAZ479/UpSkill/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/RIYAZ479/UpSkill/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAZ479/UpSkill/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RIYAZ479/UpSkill/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RIYAZ479/UpSkill/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RIYAZ479/UpSkill/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -26,6 +27,7 @@
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/RIYAZ479/UpSkill/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAZ479/UpSkill/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAZ479/UpSkill/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +131,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/RIYAZ479/UpSkill/tree/main/0496-next-greater-element-i/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAZ479/UpSkill/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAZ479/UpSkill/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAZ479/UpSkill/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
