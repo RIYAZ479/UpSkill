@@ -8,7 +8,9 @@ class Solution {
         }
         for(int i=1;i<=n-1;i++){
             int a=nums[i]-nums[i-1];
-            c=Math.max(c,a);
+            if(a>c){
+                c=a;
+            }
     
         }
         return c;
