@@ -14,6 +14,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAZ479/UpSkill/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/RIYAZ479/UpSkill/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/RIYAZ479/UpSkill/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAZ479/UpSkill/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RIYAZ479/UpSkill/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RIYAZ479/UpSkill/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -46,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/RIYAZ479/UpSkill/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RIYAZ479/UpSkill/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@
 | [0075-sort-colors](https://github.com/RIYAZ479/UpSkill/tree/main/0075-sort-colors/) | Medium |
 | [0164-maximum-gap](https://github.com/RIYAZ479/UpSkill/tree/main/0164-maximum-gap/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAZ479/UpSkill/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/RIYAZ479/UpSkill/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RIYAZ479/UpSkill/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RIYAZ479/UpSkill/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Two Pointers
@@ -154,4 +157,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/RIYAZ479/UpSkill/tree/main/0164-maximum-gap/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/RIYAZ479/UpSkill/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
