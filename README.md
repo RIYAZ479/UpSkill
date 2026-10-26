@@ -11,6 +11,7 @@
 | [0287-find-the-duplicate-number](https://github.com/RIYAZ479/UpSkill/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/RIYAZ479/UpSkill/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/RIYAZ479/UpSkill/tree/main/0496-next-greater-element-i/) | Easy |
+| [0506-relative-ranks](https://github.com/RIYAZ479/UpSkill/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAZ479/UpSkill/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/RIYAZ479/UpSkill/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -54,6 +55,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/RIYAZ479/UpSkill/tree/main/0075-sort-colors/) | Medium |
 | [0164-maximum-gap](https://github.com/RIYAZ479/UpSkill/tree/main/0164-maximum-gap/) | Medium |
+| [0506-relative-ranks](https://github.com/RIYAZ479/UpSkill/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAZ479/UpSkill/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/RIYAZ479/UpSkill/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RIYAZ479/UpSkill/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -161,4 +163,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/RIYAZ479/UpSkill/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0506-relative-ranks](https://github.com/RIYAZ479/UpSkill/tree/main/0506-relative-ranks/) | Easy |
 <!---LeetCode Topics End-->
