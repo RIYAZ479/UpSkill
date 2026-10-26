@@ -14,6 +14,7 @@
 | [0506-relative-ranks](https://github.com/RIYAZ479/UpSkill/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAZ479/UpSkill/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/RIYAZ479/UpSkill/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/RIYAZ479/UpSkill/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/RIYAZ479/UpSkill/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAZ479/UpSkill/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
