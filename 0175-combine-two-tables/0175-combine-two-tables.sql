@@ -1,8 +1,1 @@
-SELECT
-p.firstname,
-p.lastname,
-a.city,
-a.state
-From person p
-LEFT JOIN Address a
-ON p.personId=a.personId;
+SELECT p.firstname, p.lastname, a.city, a.state From person p LEFT JOIN Address a ON p.personId=a.personId;
