@@ -168,4 +168,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/RIYAZ479/UpSkill/tree/main/0506-relative-ranks/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/RIYAZ479/UpSkill/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
