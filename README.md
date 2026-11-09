@@ -32,6 +32,7 @@
 | [0509-fibonacci-number](https://github.com/RIYAZ479/UpSkill/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAZ479/UpSkill/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAZ479/UpSkill/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3894-traffic-signal-color](https://github.com/RIYAZ479/UpSkill/tree/main/3894-traffic-signal-color/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@
 | [0551-student-attendance-record-i](https://github.com/RIYAZ479/UpSkill/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RIYAZ479/UpSkill/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3894-traffic-signal-color](https://github.com/RIYAZ479/UpSkill/tree/main/3894-traffic-signal-color/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +181,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RIYAZ479/UpSkill/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3894-traffic-signal-color](https://github.com/RIYAZ479/UpSkill/tree/main/3894-traffic-signal-color/) | Easy |
 <!---LeetCode Topics End-->
