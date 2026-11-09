@@ -74,6 +74,7 @@
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/RIYAZ479/UpSkill/tree/main/0006-zigzag-conversion/) | Medium |
 | [0344-reverse-string](https://github.com/RIYAZ479/UpSkill/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/RIYAZ479/UpSkill/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/RIYAZ479/UpSkill/tree/main/0392-is-subsequence/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/RIYAZ479/UpSkill/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0942-di-string-match](https://github.com/RIYAZ479/UpSkill/tree/main/0942-di-string-match/) | Easy |
@@ -82,12 +83,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAZ479/UpSkill/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/RIYAZ479/UpSkill/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/RIYAZ479/UpSkill/tree/main/0496-next-greater-element-i/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RIYAZ479/UpSkill/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RIYAZ479/UpSkill/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RIYAZ479/UpSkill/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RIYAZ479/UpSkill/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -172,4 +175,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/RIYAZ479/UpSkill/tree/main/0175-combine-two-tables/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RIYAZ479/UpSkill/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
