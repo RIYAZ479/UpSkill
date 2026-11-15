@@ -36,11 +36,13 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/RIYAZ479/UpSkill/tree/main/0010-regular-expression-matching/) | Hard |
 | [0392-is-subsequence](https://github.com/RIYAZ479/UpSkill/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/RIYAZ479/UpSkill/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/RIYAZ479/UpSkill/tree/main/0010-regular-expression-matching/) | Hard |
 | [0509-fibonacci-number](https://github.com/RIYAZ479/UpSkill/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -74,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/RIYAZ479/UpSkill/tree/main/0006-zigzag-conversion/) | Medium |
+| [0010-regular-expression-matching](https://github.com/RIYAZ479/UpSkill/tree/main/0010-regular-expression-matching/) | Hard |
 | [0344-reverse-string](https://github.com/RIYAZ479/UpSkill/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/RIYAZ479/UpSkill/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/RIYAZ479/UpSkill/tree/main/0392-is-subsequence/) | Easy |
