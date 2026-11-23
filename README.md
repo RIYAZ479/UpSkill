@@ -29,6 +29,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/RIYAZ479/UpSkill/tree/main/0007-reverse-integer/) | Medium |
 | [0509-fibonacci-number](https://github.com/RIYAZ479/UpSkill/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAZ479/UpSkill/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAZ479/UpSkill/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
