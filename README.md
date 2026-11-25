@@ -77,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/RIYAZ479/UpSkill/tree/main/0006-zigzag-conversion/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/RIYAZ479/UpSkill/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/RIYAZ479/UpSkill/tree/main/0010-regular-expression-matching/) | Hard |
 | [0344-reverse-string](https://github.com/RIYAZ479/UpSkill/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/RIYAZ479/UpSkill/tree/main/0387-first-unique-character-in-a-string/) | Easy |
